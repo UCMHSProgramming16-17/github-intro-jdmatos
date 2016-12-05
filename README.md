@@ -1,4 +1,4 @@
-# Sample repository
+# My Sample
 ----
 We'll be using this repository to practice using Git and GitHub.
 
